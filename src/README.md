@@ -3,7 +3,7 @@ home: true
 lang: en-US
 homeComponent: PaperbackHome
 heroImage: /icons/appicon-round.svg
-buttonGuides: User guide
+buttonGuides: Get started
 privacy: Privacy policy
 features:
     - title: iPad support
