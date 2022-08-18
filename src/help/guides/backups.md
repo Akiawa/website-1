@@ -6,11 +6,6 @@ lang: en-US
 # Backing your data
 You should always have a backup of your library, especially before updating the app.
 
-:::: tip Tips
- * A video guide is also available [on YouTube](https://www.youtube.com/watch?v=5EPN9FORQ1g)
- * If the app crashed when you made the backup, go to settings and choose "**Clear orphaned chapters**".
-::::
-
 :::: guide Creating a backup from Paperback
  * Go to Settings > Backups
  * Press "**New Backup**" and choose where you want to save the backup
